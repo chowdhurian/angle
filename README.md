@@ -1,5 +1,5 @@
 # angle
-Angle is a prototype communications team project management tool. This was created by Team Rocket while competing at [Protohack](https://protohack.com/) 2017.
+Angle is a prototype communications team project management tool. This was created by [Team Rocket](#team-) while competing at [Protohack](https://protohack.com/) 2017.
 
 ## table of contents
 1. [team](#team-)
@@ -37,4 +37,4 @@ Angle is a prototype communications team project management tool. This was creat
 
 ## pitch deck ⏱
 
-(placeholder for slideshow)
+[click to view the pitch deck on Google Slides](https://docs.google.com/presentation/d/1PFTbNFh0k1yMSsJ6av4WQPG10SiJ9qo04wnxolkr2s0/edit#slide=id.p)
