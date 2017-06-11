@@ -9,8 +9,18 @@ Angle is a prototype communications team project management tool. This was creat
 
 # mockups
 
+deliverable view for team lead:
+
 ![deliverable view for team lead](https://raw.githubusercontent.com/chowdhurian/angle/master/mockups/angle-template-steve.png)
+
+deliverable view for content creator:
 
 ![deliverable view for content creator](https://raw.githubusercontent.com/chowdhurian/angle/master/mockups/angle-template-lily.png)
 
+high-level timeline view, customized for execs, and displaying overall strategy:
+
 ![timeline view for overall strategy](https://raw.githubusercontent.com/chowdhurian/angle/master/mockups/angle-timeline.png)
+
+# pitch deck
+
+(placeholder for slideshow)
