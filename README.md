@@ -15,6 +15,8 @@ Angle is a prototype communications team project management tool. This was creat
 [Maggie](https://twitter.com/peppud) <>
 [Manil](https://twitter.com/keywordnew)
 
+![the dopest team ever](https://raw.githubusercontent.com/chowdhurian/angle/master/assets/20170429_151300.jpg)
+
 ## mockups 🛠
 
 ### deliverable view for team lead:
